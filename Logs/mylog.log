@@ -1,0 +1,32 @@
+[INFO ] 2025-05-20 15:51:54.586 [main] selenium_project - url opened
+[INFO ] 2025-05-20 15:51:54.595 [main] selenium_project - Verified login test for already Register User
+[INFO ] 2025-05-20 15:51:56.477 [main] selenium_project - clicked on sign in button
+[INFO ] 2025-05-20 15:51:57.049 [main] selenium_project - Enter Registered User Email
+[INFO ] 2025-05-20 15:51:57.276 [main] selenium_project - Enter Registered User Password
+[INFO ] 2025-05-20 15:51:59.158 [main] selenium_project - Click on sign in
+[INFO ] 2025-05-20 15:51:59.307 [main] selenium_project - User Verification is - Pass
+[INFO ] 2025-05-20 15:52:34.738 [main] selenium_project - 
+***************TestCase Search Product started*****************
+[INFO ] 2025-05-20 15:52:36.647 [main] selenium_project - User Email and Password entered.
+[INFO ] 2025-05-20 15:52:38.195 [main] selenium_project - Sign In link clicked
+[INFO ] 2025-05-20 15:52:39.795 [main] selenium_project - Search Product testcase - Passed
+[INFO ] 2025-05-20 15:52:41.020 [main] selenium_project - ---------TestCase Search Product ends-------
+[INFO ] 2025-05-20 15:53:23.049 [main] selenium_project - ---------TestCase VerifyLogin starts---------
+[INFO ] 2025-05-20 15:53:24.934 [main] selenium_project - Clicked on Sign In link
+[INFO ] 2025-05-20 15:53:25.686 [main] selenium_project - Entered email address: qweg981@gmail.com
+[INFO ] 2025-05-20 15:53:26.004 [main] selenium_project - Entered password
+[INFO ] 2025-05-20 15:53:27.602 [main] selenium_project - Clicked on Sign In button
+[INFO ] 2025-05-20 15:53:27.831 [main] selenium_project - Expected Username: vijay jain
+[INFO ] 2025-05-20 15:53:27.832 [main] selenium_project - Actual Username: Vijay jain
+[INFO ] 2025-05-20 15:53:27.832 [main] selenium_project - Login successful - Test Passed
+[INFO ] 2025-05-20 15:53:29.458 [main] selenium_project - Signed out successfully
+[INFO ] 2025-05-20 15:53:29.458 [main] selenium_project - ---------TestCase VerifyLogin ends----------
+[INFO ] 2025-05-20 15:53:29.569 [main] selenium_project - ---------TestCase VerifyLogin starts---------
+[INFO ] 2025-05-20 15:53:30.878 [main] selenium_project - Clicked on Sign In link
+[INFO ] 2025-05-20 15:53:31.120 [main] selenium_project - Entered email address: qweg981@gmail.com
+[INFO ] 2025-05-20 15:53:31.277 [main] selenium_project - Entered password
+[INFO ] 2025-05-20 15:53:32.564 [main] selenium_project - Clicked on Sign In button
+[INFO ] 2025-05-20 15:53:32.613 [main] selenium_project - Expected Username: vijay jain1
+[INFO ] 2025-05-20 15:53:32.613 [main] selenium_project - Actual Username: Vijay jain
+[ERROR] 2025-05-20 15:53:32.614 [main] selenium_project - Login failed - Username mismatch
+[INFO ] 2025-05-20 15:53:32.840 [main] selenium_project - ---------TestCase VerifyLogin ends----------
